@@ -9,6 +9,6 @@ Install Twillio and beautiful soup Library.
 pip install twilio
 pip install beautifulsoup4
 ```
-Create an account in twilio.com. and use the Tokens given there.
+Create an account in twilio.com and use the Tokens given there.
 
 Run the python code and it should start working.
